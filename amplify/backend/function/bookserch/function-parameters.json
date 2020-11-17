@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "internaadd4544": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
